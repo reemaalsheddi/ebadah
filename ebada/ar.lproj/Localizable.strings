@@ -1,0 +1,49 @@
+/*
+  Localizable.strings
+  Ebada
+
+  Created by alaa.alsulaiman on 17/06/1444 AH.
+  
+*/
+
+
+"Morning remembrance"="أذكار الصباح";
+"Evening remembrance"="أذكار المساء";
+"Recitation of the Qur'an"="قراءة القرآن";
+"The Witr prayer"="صلاة الوتر";
+
+
+"Done"="تم";
+"Astaghfirullah"="استغفرالله";
+"Subhanallah"="سبحان الله";
+"Alhamdalalah"="الحمدلله";
+"Allah Akbar"="الله اكبر";
+
+"Choose worship:"="اختر عبادة:";
+
+
+
+"Morning remembrance"="أذكار الصباح";
+"Evening remembrance"="أذكار المساء";
+"Recitation of the Qur'an"="قراءة القرآن";
+"The Witr prayer"="صلاة الوتر";
+
+"Remembering God Almighty and repeating the daily remembrances more often, including the morning remembrances, are among the things that protect us from evils and dangers."= "ذكر الله تعالى والإكثار من ترديد الأذكار اليومية بما فيها أذكار الصباح من الأشياء التي تقينا من الشرور والأخطار وتجعلنا في حفظ الله تعالى على الدوام.";
+
+
+"Remembering God Almighty and repeating the daily remembrances more often, including the evening remembrances, are among the things that protect us from evils and dangers."="ذكر الله تعالى والإكثار من ترديد الأذكار اليومية بما فيها أذكار المساء من الأشياء التي تقينا من الشرور والأخطار وتجعلنا في حفظ الله تعالى على الدوام. ";
+
+"(Read the Qur’an, for it will come as an intercessor for its reciters on the Day of Resurrection)."="(اقرؤوا هذا القرآن، فإنه يأتي شفيعًا لأصحابه يوم القيامة)";
+
+
+"The Prophet (ﷺ) said: Allah is single (witr) and loves what is single, so observe the witr, you who follow the Qur'an."="قال(ﷺ) يَا أَهْلَ الْقُرْآنِ أَوْتِرُوا فَإِنَّ اللَّهَ وِتْرٌ يُحِبُّ الْوِتْرَ. ";
+
+"Morning remembrance time: After Fajr prayer until before Asr prayer."="وقت أذكار الصباح: من بعد صلاة الفجر إلى قبل صلاة العصر.";
+
+"Evening remembrance time: After Asr prayer until Midnight."="وقت أذكار المساء: من بعد صلاة العصر إلى منتصف الليل.";
+
+"After the Isha prayer until before the Fajr prayer."="وقت صلاة الوتر: من بعد صلاة العشاء إلى قبل صلاة الفجر.";
+
+"ebada"="عبادتي";
+
+"Sabha"="سبحة:";
